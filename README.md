@@ -1,0 +1,2 @@
+# BeautifulManager
+基于SQLite数据库、webmagic爬虫的Beauty图片文件管理器
